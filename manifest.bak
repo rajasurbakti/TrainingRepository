@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="enabled">no</value>
+  <value name="system_package">no</value>
+  <value name="version">1.0</value>
+  <null name="startup_services"/>
+  <null name="shutdown_services"/>
+  <null name="replication_services"/>
+  <null name="requires"/>
+  <null name="listACL"/>
+  <value name="webappLoad">yes</value>
+  <value name="reloadWithDependentPackage">yes</value>
+  <value name="build"></value>
+  <value name="description"></value>
+  <value name="created_date">06-10-2026 18:08:39 CEST</value>
+  <null name="extendedProperties"/>
+  <null name="target_server_version"/>
+  <value name="name">PrintLogScheduling</value>
+  <value name="time">2026-10-06 18:34:37 CEST</value>
+  <value name="jvm_version">17.0.12</value>
+  <value name="publisher">vmi3394708.contaboserver.net</value>
+  <value name="patch_nums"></value>
+</Values>
